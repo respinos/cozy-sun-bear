@@ -69,7 +69,7 @@
     "epubjs": "git+https://github.com/mlibrary/epub.js.git#patched",
     "event-emitter": "^0.3.4",
     "intersection-observer": "^0.5.1",
-    "lodash": "^4.17.13",
+    "lodash": "^4.17.19",
     "mustache": "^2.3.0"
   },
   "style": "dist/cozy.css"
